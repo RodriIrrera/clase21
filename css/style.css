@@ -1,0 +1,25 @@
+body {
+  background-color: yellow;
+}
+
+body img {
+  width: 13rem;
+  height: 170px;
+  position: relative;
+  left: 40%;
+}
+
+body h1 {
+  color: blue;
+}
+
+body h2 {
+  color: red;
+}
+
+footer {
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */

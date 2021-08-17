@@ -1,0 +1,23 @@
+@import "variables.scss"
+
+body {
+    background-color: yellow;
+    img {
+        width: 13rem;
+        height: 170px;
+        position: relative;
+        left: 40%;
+    }
+    h1 {
+        color: $colorPrincipal;
+    }
+    h2 {
+        color: $colorSecundario;
+    }
+}
+
+footer {
+    background-color:$colorPrincipal;
+    text-align: center;
+    color: $colorSecundario;
+}
